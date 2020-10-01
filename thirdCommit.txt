@@ -1,1 +1,0 @@
-This is a Third commit file. I am also going to commit the thirds file in the directory.
